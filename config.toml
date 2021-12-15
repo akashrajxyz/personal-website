@@ -1,0 +1,11 @@
+base_url = "https://akashraj.xyz"
+generate_feed = true
+compile_sass = false
+default_language = "en"
+
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
+
+[extra]
+
